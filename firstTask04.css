@@ -1,16 +1,32 @@
 body{
-    background-image: url("tree.jpg")
-}
-.Matters{
-    color: yellow;}
-.in {
-    display: inline;
-}
-.Home {
-    color: yellow;
-}
-.button {
+        background-image: url("tree.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .list{ 
+        display: inline-block;
+        margin: 0;
+        margin-right: 20px;
+        font-size: 20px;
+    }
     
-    background-color: black;
+    li{
+        display: inline;
+        margin-right: 30px;  
+    }
+    
+.Matters{
+    color: orange;
 }
-p { color: white;}
+
+.Home {
+    color:orange;
+}
+
+.button {
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    height: 40px;
+}
+
