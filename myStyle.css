@@ -1,0 +1,53 @@
+  
+
+body {
+     background-color: yellowgreen;
+     margin-right: 20px;
+}
+.box {
+   border-radius: 30pt;
+   background-color: white;
+   padding-top: 10px;
+   padding-bottom: 20px;
+   margin: 100px;
+   width: 40%;
+
+}
+h3{
+   color: gray;
+   font-style: unset;
+   padding-right: 40px;
+}
+.enter {
+    border-radius: 30pt;
+    background-color: white;
+}
+
+.blue
+{
+    background-color: blue;
+    border-radius: 30pt;
+   
+}
+.red
+{
+  background-color: red;
+  border-radius: 30pt;
+  
+}
+.green
+{
+    background-color: green;
+    border-radius: 30pt;
+   
+}
+.Added
+{
+    background-color: blue;
+    border-radius: 10pt;
+}
+.bold 
+{
+    background-color: grey;
+text-decoration: line-through;
+}
