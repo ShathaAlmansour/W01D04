@@ -4,12 +4,11 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .Tabel{
-        margin: 50pt;
-        align-items: center;
-        width:50%; 
-        display: grid;
-        grid-template-columns: auto auto auto;  
-        grid-gap:10pt
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-gap: 50px;
+    justify-content: center;
+        
     }
 .one {
         list-style: none;
