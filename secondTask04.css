@@ -1,0 +1,43 @@
+.about{
+    text-align: center;
+    margin:90pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Tabel{
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: row;
+        align-items: center;
+        width:70%;   
+    }
+.one {
+        list-style: none;
+        margin: 0 60px;
+    }
+.two {
+        list-style: none;
+        margin: 0 60px;
+}
+.three {
+        list-style: none;
+        margin: 0 60px;
+}
+
+hr{
+    width: 70px;
+    color: orange;
+    border: solid 4px;
+
+}
+.like{
+    width: 10%;
+    margin: 0 50px;
+}
+.money{
+    width: 10%;
+    margin: 0 50px;
+}
+.comment{
+    width: 10%;
+    margin: 0 50px;
+}
