@@ -1,6 +1,9 @@
 #A {
     color: orange;
   }
+  #g{
+      color: gray;
+  }
   
   footer {
     text-align: center;
@@ -9,4 +12,54 @@
     color: white;
     background-color:gray;
   }
+
+  .last{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    width: 100%;
+}
+  .information{
+    display: flex;
+}
+
+  .right{
+    display: flex;
+    flex-direction:column ;
+    width: 50%;  
+    display: block;
+    justify-content: start;
+    flex-direction: row-reverse;
+    margin: 0 50px;  
+}
+
+  .left{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: 0 50px;
+}
+
+.input{
+    display: block;
+    width: 40%;
+    height: 30px;
+    margin:20px 10px;
+}
+
+hr{
+    width: 100px;
+    color: orange;
+    border: solid 4px;
+    margin: 0 7px;    
+}
+
+button {
+    color:orange;
+    background-color: gray;
+    border-style: none;
+    border-radius: 1px;
+    font-size: 20px;
+  }
+  
   
