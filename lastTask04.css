@@ -6,8 +6,10 @@
   }
   
   footer {
+    display: flex;
+    justify-content: space-evenly;
     text-align: center;
-    padding: 20px;
+    padding: 10px;
     font-size: 15px;
     color: white;
     background-color:gray;
