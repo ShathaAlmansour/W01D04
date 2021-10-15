@@ -4,25 +4,27 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .Tabel{
-        display: flex;
-        justify-content: space-evenly;
         margin: 50pt;
-        flex-direction: row;
         align-items: center;
-        width:50%;   
-        column-count: 3;
+        width:50%; 
+        display: grid;
+        grid-template-columns: auto auto auto;  
+        grid-gap:10pt
     }
 .one {
         list-style: none;
         margin: 0 60px;
+        flex: 1pt;
     }
 .two {
         list-style: none;
         margin: 0 60px;
+        flex: 1pt;
 }
 .three {
         list-style: none;
         margin: 0 60px;
+        flex: 1pt;
 }
 
 hr{
