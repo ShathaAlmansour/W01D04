@@ -6,9 +6,10 @@
 .Tabel{
         display: flex;
         justify-content: space-evenly;
+        margin: 50pt;
         flex-direction: row;
         align-items: center;
-        width:70%;   
+        width:50%;   
     }
 .one {
         list-style: none;
