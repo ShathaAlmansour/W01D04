@@ -10,6 +10,7 @@
         flex-direction: row;
         align-items: center;
         width:50%;   
+        column-count: 3;
     }
 .one {
         list-style: none;
